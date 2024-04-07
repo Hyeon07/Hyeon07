@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning Android App Development
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Hyeon07/Hyeon07/issues)**
+💬 Ask me about **anything [here](https://github.com/Hyeon07/Hyeon07/issues)**
 
  </div>
  

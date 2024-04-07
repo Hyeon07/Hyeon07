@@ -14,9 +14,7 @@
  
  🌱 I’m currently learning Android App Development
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Hyeon07/Hyeon07/issues)**
 
  </div>
  
@@ -47,7 +45,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hyeonp07/Hyeonp07/output/github-contribution-grid-snake.svg" />
+  <img alt="my contributions" src="https://raw.githubusercontent.com/Hyeonp07/Hyeonp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>

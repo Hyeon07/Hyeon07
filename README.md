@@ -27,7 +27,7 @@
 </div>
 
  <hr/>
- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3172142" style='border:none;'></iframe>
+ <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3172142" style='border:none;'/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>

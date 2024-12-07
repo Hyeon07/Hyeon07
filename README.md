@@ -27,8 +27,8 @@
 </div>
 
  <hr/>
- <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3172142" style='border:none;'/>
- 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Hyeon.png" alt="Your Image Badge" />
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">

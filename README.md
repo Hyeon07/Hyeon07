@@ -27,7 +27,7 @@ From kernel logs to model weights, I decode, defend, and design systems that mat
 
 </td>
 <td align="center">
-  <img src="https://raw.githubusercontent.com/Hyeon07/Hyeon07/main/assets/IMG_2526.JPG" width="220px" alt="Coder illustration" />
+  <img src="main/assets/IMG_2526.JPG" width="220px" alt="Coder illustration" />
 </td>
   </tr>
 </table>

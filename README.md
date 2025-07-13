@@ -10,6 +10,10 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="60%">
+    
 ### 🧠 About Me
 
 I'm a **Security Engineer** passionate about solving deep system-level problems and building intelligent defenses.  
@@ -20,6 +24,13 @@ I believe that every line of code tells a story—and I love uncovering the plot
 
 I’m someone who finds elegance in low-level design and delight in high-level abstractions.  
 From kernel logs to model weights, I decode, defend, and design systems that matter.
+
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Hyeon07/Hyeon07/main/assets/about-image.jpg" width="220px" alt="Coder illustration" />
+</td>
+  </tr>
+</table>
 
 ---
 

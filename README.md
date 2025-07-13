@@ -10,11 +10,11 @@
 
 ---
 
+### 🧠 About Me
+
 <table>
   <tr>
     <td width="60%">
-    
-### 🧠 About Me
 
 I'm a **Security Engineer** passionate about solving deep system-level problems and building intelligent defenses.  
 From **reverse engineering** to **automating threat detection**, I love understanding systems inside-out.
@@ -26,8 +26,8 @@ I’m someone who finds elegance in low-level design and delight in high-level a
 From kernel logs to model weights, I decode, defend, and design systems that matter.
 
 </td>
-<td align="center">
-  <img src="main/assets/IMG_2526.JPG" width="220px" alt="Coder illustration" />
+<td width="40%" align="center">
+  <img src="main/assets/IMG_2526.JPG" width="450px" alt="Coder illustration" />
 </td>
   </tr>
 </table>

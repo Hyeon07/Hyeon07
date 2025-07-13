@@ -83,7 +83,7 @@ From kernel logs to model weights, I decode, defend, and design systems that mat
 </p>
 
 <p align="center">
-  <img src="https://github.com/Hyeon07/Hyeon07/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Hyeon07/Hyeon07/dist/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 <p align="center">

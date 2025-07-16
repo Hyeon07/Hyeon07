@@ -89,7 +89,9 @@ From kernel logs to model weights, I decode, defend, and design systems that mat
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="400px" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Hyeon07&theme=github-dark&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyeon07&theme=github-dark&color=6E85B7&line=6E85B7&point=9BA3EB&area=true&hide_border=true" />
+  </p>
+  <p align="center">
   <img width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hyeon07&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" />
 </p>
 
